@@ -2,7 +2,7 @@
 the long journey to get my dactyl keyboard running...
 
 ## Getting the parts together...
-- diodes: I got 80x 1N4148 (the standart?)
+- diodes: I got 80x 1N4148 (the standard?)
 - caps: todo
 - flex pcb: todo
 - 3d model/printing: todo
