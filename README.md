@@ -10,5 +10,5 @@ Project source: [adereth/dactyl-keyboard](https://github.com/adereth/dactyl-keyb
 - 3d model/printing: 
 
 ## Assembly
-- coating the 3d parts: todo
-- firmware: please read http://joedevivo.com/2017/05/20/building-a-qmk-dactyl.html 
+- Coating the 3d parts: I used standard acrylic varnish. Some people recommend varnish on silicon base as it should better connect with the surface. I used varnish on water base - I had no issues with it nor problems that the paint didn't stick.
+- Firmware: please read [Building a Dactyl Keyboard, Running QMK](http://joedevivo.com/2017/05/20/building-a-qmk-dactyl.html)
